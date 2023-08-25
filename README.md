@@ -21,6 +21,7 @@ The main objective of this project is to develop a deep learning model that can 
 ## Impact
 
 - Enhanced Diagnostics: The project's deep learning model enhances the accuracy of skin cancer classification, offering valuable support to medical professionals in their diagnostic efforts.
+- The model gained an accuracy of 92%
 
 ## How to Use
 
@@ -42,6 +43,4 @@ The HAM10000 dataset from Kaggle is used for this project. It contains skin canc
 - Seaborn
 - Matplotlib
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
